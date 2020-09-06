@@ -5,3 +5,7 @@
 
 Laravel 6 project
 Booking website similar to AirBNB or Booking.com
+
+# Instalation
+
+composer install
